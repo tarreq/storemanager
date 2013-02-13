@@ -1,0 +1,4 @@
+storemanager
+============
+
+storemanager test application
